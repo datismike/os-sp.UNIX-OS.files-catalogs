@@ -1,0 +1,3 @@
+find: ‘/etc/polkit-1/localauthority’: Отказано в доступе
+find: ‘/etc/ssl/private’: Отказано в доступе
+find: ‘/etc/cups/ssl’: Отказано в доступе
